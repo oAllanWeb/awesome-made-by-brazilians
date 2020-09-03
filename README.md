@@ -338,6 +338,11 @@ Alan de Freitas](https://github.com/alandefreitas)
   Open source, extensible and Docker-based Platform as a Service (PaaS)  
   ![Stars](https://img.shields.io/github/stars/tsuru/tsuru?style=flat-square)
 
+- **[Clockify CLI](https://github.com/lucassabreu/clockify-cli)** by [lucassabreu](https://github.com/lucassabreu)  
+  A simple cli to manage your time entries on Clockify from terminal  
+  ![Stars](https://img.shields.io/github/stars/lucassabreu/clockify-cli?style%3Dflat-square)
+
+
 <a name="js"></a>
 
 ### JavaScript
